@@ -9,7 +9,7 @@ public class Calculator {
     public static void main(String[] args) {
         String string1 = getInput("Enter a numeric value: ");
         String s2 = getInput("Enter a numeric value: ");
-        String op = getInput("Choose an operation (+ - * /):");
+        String op = getInput("Choose an operation (+ - * /): ");
 
         double result;
 
